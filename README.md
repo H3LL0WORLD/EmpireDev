@@ -10,7 +10,7 @@
 ## SetUACLevel
 #### [ES] Establecer el nivel de notificación del UAC
 #### [EN] Set the UAC notification level
-#### [set_uac_level.py](lib/modules/powershell/collection/set_uac_level.py), [get_uac_level.ps1](data/modules_source/collection/get_uac_level.ps1)
+#### [set_uac_level.py](lib/modules/powershell/collection/set_uac_level.py), [set_uac_level.ps1](data/module_source/collection/set_uac_level.ps1)
 # 
 ## Hotfixes
 #### [ES] Obtener el listado de los parches instalados usando WMI
