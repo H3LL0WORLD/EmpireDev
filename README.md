@@ -18,6 +18,6 @@
 #### [hotfixes.py](lib/modules/powershell/collection/hotfixes.py)
 # 
 ## Invoke-SDCLTBypass
-#### [ES] Saltarse el UAC secuestrando el valor "IsolatedCommand" en "shell\runas\command", mas info (aqui)[https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdctl-exe]
+#### [ES] Saltarse el UAC secuestrando el valor "IsolatedCommand" en "shell\runas\command", mas info [aqui](https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdctl-exe)
 #### [EN] Bypasses UAC by hijacking the "IsolatedCommand" value in "shell unas\command", more info [here](https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdclt-exe)
 #### [bypassuac_sdclt.py](lib/modules/powershell/privesc/bypassuac_sdclt.py)
