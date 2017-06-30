@@ -13,4 +13,3 @@
 ## [Hotfixes](lib/modules/powershell/collection/hotfixes.py)
 #### [ES] Obtener el listado de los parches instalados usando WMI
 #### [EN] Get the list of installed hotfixes using WMI
-###### Note: This was just for testing purposes, Empire already have this implemented
